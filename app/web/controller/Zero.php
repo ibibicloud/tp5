@@ -4,7 +4,7 @@ namespace app\web\controller;
 
 use think\Controller;
 
-class BaseError extends Controller
+class Zero extends Controller
 {
     // 控制器初始化 获取网站配置参数
     public function initialize()

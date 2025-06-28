@@ -1,4 +1,4 @@
-# think5
+# tp5
 基于 https://github.com/top-think/think/tree/v5.1.41 实际41是42
 
 ### 文档
@@ -7,5 +7,5 @@ https://doc.thinkphp.cn/v5_1/default.html
 
 ## 安装
 ~~~
-composer create-project ibibicloud/think5 tp5
+composer create-project ibibicloud/tp5 tp5
 ~~~

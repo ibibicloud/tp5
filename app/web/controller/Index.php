@@ -2,7 +2,7 @@
 
 namespace app\web\controller;
 
-use app\web\controller\BaseError as BaseController;
+use app\web\controller\Zero as BaseController;
 
 class Index extends BaseController
 {

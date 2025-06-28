@@ -24,7 +24,7 @@ return [
     // 默认的空模块名指向
     'empty_module'           => 'index',
     // 默认的空控制器名
-    'empty_controller'       => 'BaseError',
+    'empty_controller'       => 'Zero',
 
     // 是否开启请求缓存 true自动缓存 支持设置请求缓存规则
     'request_cache'          => false,
