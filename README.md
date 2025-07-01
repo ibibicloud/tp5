@@ -2,6 +2,12 @@
 ## tp5
 基于 https://github.com/top-think/think/tree/v5.1.41 实际41是42
 
+在原 v=5.1.42 版本的基础上删除了许多功能
+
+适配 php >= 7.2.0 
+
+兼容 php8
+
 ### 文档
 https://www.kancloud.cn/manual/thinkphp5_1/353946
 
