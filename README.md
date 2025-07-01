@@ -21,6 +21,7 @@ composer create-project ibibicloud/tp5 tp5
 ### 开发规范
 | 名称 | 类名 | 链接 |
 |-------|-------|------|
+| 目录结构 | directory | [链接](https://github.com/ibibicloud/tp5/tree/master/docs/directory.md) |
 | 配置 | config | [链接](https://github.com/ibibicloud/tp5/tree/master/docs/config.md) |
 | 路由 | route | [链接](https://github.com/ibibicloud/tp5/tree/master/docs/route.md) |
 | 控制器 | controller | [链接](https://github.com/ibibicloud/tp5/tree/master/docs/controller.md) |
